@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{4F8F2118-EE31-42FA-B959-EFE22138B81D}|Default">
-  <MonoDevelop.Ide.ItemProperties.TipCalculatorIOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3D25C5A9-4882-4784-B862-6273486258D6" />
+  <MonoDevelop.Ide.ItemProperties.TipCalculatorIOS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1EC79194-E930-4B5E-928F-5AFFE5B4F879" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculatorIOS Status">
     <Files>
       <File FileName="iOS/ViewController.cs" Line="52" Column="4" />

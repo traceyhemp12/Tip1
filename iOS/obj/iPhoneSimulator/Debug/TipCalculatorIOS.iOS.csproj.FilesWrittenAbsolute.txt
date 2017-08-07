@@ -13,3 +13,11 @@
 /Users/themphillwright/Projects/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
 /Users/themphillwright/Projects/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/themphillwright/Projects/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/bin/iPhoneSimulator/Debug/TipCalculatorIOS.iOS.pdb
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/bin/iPhoneSimulator/Debug/TipCalculatorIOS.iOS.exe
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/TipCalculatorIOS.iOS.exe
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/obj/iPhoneSimulator/Debug/TipCalculatorIOS.iOS.pdb
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/bin/iPhoneSimulator/Debug/TipCalculatorIOS.dll
+/Users/themphillwright/Projects/traceyhemp12/TipCalculatorIOS/iOS/bin/iPhoneSimulator/Debug/TipCalculatorIOS.pdb
