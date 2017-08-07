@@ -1,0 +1,5 @@
+/Users/themphillwright/Projects/TipCalculatorIOS/TipCalculatorIOS/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/themphillwright/Projects/TipCalculatorIOS/TipCalculatorIOS/bin/Debug/TipCalculatorIOS.pdb
+/Users/themphillwright/Projects/TipCalculatorIOS/TipCalculatorIOS/bin/Debug/TipCalculatorIOS.dll
+/Users/themphillwright/Projects/TipCalculatorIOS/TipCalculatorIOS/obj/Debug/TipCalculatorIOS.dll
+/Users/themphillwright/Projects/TipCalculatorIOS/TipCalculatorIOS/obj/Debug/TipCalculatorIOS.pdb
